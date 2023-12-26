@@ -3,6 +3,9 @@
 **👋 Overview:**
 This project utilizes web technologies to create a real-time object detection application using a device's camera. The user interface includes options to toggle the object detection feature and adjust the frames per second (fps). The application draws on the capabilities of machine learning models to identify and annotate objects within the camera feed.
 
+**🌟Try yourself ::**
+https://codesandbox.io/p/sandbox/github/saanvi2020/AI-Object-Detection/tree/main/
+
 **📌 Key Features:**
 
 ⁘ User Interface:
